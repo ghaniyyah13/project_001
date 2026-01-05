@@ -1,6 +1,6 @@
 # project_001
 awalan projek saya
 
-ghaniyyah dzatur rahma
+ghaniyyah dzatur rahma <br>
 ghaniyyah
-XII
+XII M2
